@@ -1,4 +1,4 @@
-Hi 👋 My name is Adrian aka. Bekobii
+Hi 👋 My name Bekobii
 ====================================
 
 Software Developer and Architect
