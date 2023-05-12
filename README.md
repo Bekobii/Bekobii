@@ -1,4 +1,4 @@
-Hi 👋 My name Hypnos
+Hi 👋 My name is Bekobi
 ====================================
 
 Software Developer and Architect
