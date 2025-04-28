@@ -8,7 +8,7 @@ I am interested in Software Design, Low-Level Programming and Cybersecurity. At 
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cs,c&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cs,c,arch,git,kali,&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bekobii&show_icons=true&theme=radical)
